@@ -1,16 +1,31 @@
-## Hi there 👋
+# Nitin-Pandey
+# Hi there 👋, I'm Nitin Pandey
 
-<!--
-**Nitinpandeyofficial/Nitinpandeyofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am an aspiring software developer, passionate about building efficient and scalable solutions. I love learning new technologies and collaborating on exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: Next.js, TypeScript
+- 💼 Open for collaboration and interesting projects
+
+## 🛠️ Skills
+- C | Java | Python
+- HTML | CSS | JavaScript
+- Networking | Azure | MySQL
+- Node.js
+- Git | GitHub Actions | Docker
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/nitin-pandey-96380a215/)
+
+## 📊 GitHub Stats
+![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitinpandeyofficial&show_icons=true&hide_border=true&count_private=true)
+
+## 🏆 Achievements
+- 🥇 Top contributor in several open source repositories
+- 🛡️ Maintainer of popular projects
+
+---
+
+*Thanks for visiting my profile! Feel free to connect or check out my repositories.*
